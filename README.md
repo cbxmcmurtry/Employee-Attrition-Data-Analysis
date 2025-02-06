@@ -28,15 +28,14 @@ pip install pandas numpy scikit-learn imbalanced-learn ipywidgets matplotlib sea
 Download the application files from the provided link and save them locally.
 
 ### Run the Application
-Open Jupyter Notebook
-Open the command line or terminal.
-Navigate to the project directory using the cd command:
+* Open Jupyter Notebook > Open the command line or terminal.
+* Navigate to the project directory using the cd command:
 bash
 cd /path/to/EmployeeAttritionPredictor
-Launch Jupyter Notebook by running:
+* Launch Jupyter Notebook by running:
 bash
 jupyter notebook
-In the Jupyter Notebook interface, navigate to the project directory and open the EmployeeAttritionPredictor.ipynb file.
+* In the Jupyter Notebook interface, navigate to the project directory and open the EmployeeAttritionPredictor.ipynb file.
 
 ## Execute the Application
 Run all code cells in sequence by clicking the “Run” button in Jupyter Notebook.
