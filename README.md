@@ -7,7 +7,8 @@ SMOTE (Synthetic Minority Over-sampling Technique): Balances the dataset for bet
 Random Forest Model: Trained on resampled data for robust classification.
 Evaluation Metrics: Generates a classification report, confusion matrix, and feature importance plots.
 Interactive UI: Uses widgets to input employee details and predict attrition.
-⚙️ How It Works
+
+## How It Works
 Prepares Data: Encodes categorical variables and balances data using SMOTE.
 Trains Model: Uses a Random Forest Classifier on the resampled dataset.
 Evaluates Performance: Displays the classification report and confusion matrix.
