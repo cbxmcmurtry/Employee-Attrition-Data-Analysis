@@ -23,25 +23,21 @@ This project predicts **employee attrition** using a **Random Forest Classifier*
 
 #### **Required Libraries:**
 Install the necessary Python libraries using the following command:
-
-```bash
 pip install pandas numpy scikit-learn imbalanced-learn ipywidgets matplotlib seaborn
 
-
-### 2. Download the Application Files
+### **2. Download the Application Files**
 Download the application files from the provided link and save them locally.
 
-### 3. Run the Application
-* Open Jupyter Notebook > Open the command line or terminal.
-* Navigate to the project directory using the cd command:
-bash
+### **3. Run the Application**
+* **Open Jupyter Notebook** and open the command line or terminal.
+* **Navigate to the project directory** using the `cd` command:
 cd /path/to/EmployeeAttritionPredictor
 * Launch Jupyter Notebook by running:
-bash
 jupyter notebook
+
 * In the Jupyter Notebook interface, navigate to the project directory and open the EmployeeAttritionPredictor.ipynb file.
 
-### 4. Execute the Application
+### 4. **Execute the Application**
 * Run all code cells in sequence by clicking the “Run” button in Jupyter Notebook.
 The code will:
 * Load the dataset
@@ -49,24 +45,24 @@ The code will:
 * Train the Random Forest Classifier
 * Make predictions on employee attrition
 
-### 5. Use the Application Interface
-Interact with Widgets: Enter employee details using sliders, dropdowns, and input fields.
-Predict Attrition: Click the Predict button to generate a result.
+### 5. **Use the Application Interface**
+**Interact with Widgets:** Enter employee details using sliders, dropdowns, and input fields.
+**Predict Attrition:** Click the Predict button to generate a result.
 
-### 6. Analyze Results
-Review Predictions: The model will predict if an employee is at risk of attrition.
+### 6. **Analyze Results**
+**Review Predictions:** The model will predict if an employee is at risk of attrition.
 Check Insights: The classification report, confusion matrix, and visualizations will highlight key factors influencing attrition.
 
-## 7. Example Usage Scenario
-Objective: The HR team wants to identify employees at risk of leaving.
+## 7. **Example Usage Scenario**
+**Objective:** The HR team wants to identify employees at risk of leaving.
 
-Upload the current employee dataset into the notebook.
-Run the application to preprocess the data and train the model.
-Review predictions to identify high-risk employees.
-Analyze contributing factors and take action to prevent workforce loss.
+1. Upload the current employee dataset into the notebook.
+2. Run the application to preprocess the data and train the model.
+3. Review predictions to identify high-risk employees.
+4. Analyze contributing factors and take action to prevent workforce loss.
 
-## Contributing
+## **Contributing**
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-## License
+## **License**
 This project is licensed under the MIT License.
