@@ -1,5 +1,5 @@
 # **Employee Attrition Analysis & Prediction**
-This project predicts **employee attrition** using a **Random Forest Classifier** trained on **HR data from IBM**. It includes **data preprocessing, feature encoding, SMOTE for class balancing**, and an **interactive UI** for making predictions.
+This project predicts employee attrition using a Random Forest Classifier trained on **HR data from IBM**. It includes data preprocessing, feature encoding, SMOTE for class balancing, and an *nteractive UI for making predictions.
 
 ## **Features**
 * **Data Preprocessing:** Handles categorical and numerical variables.
