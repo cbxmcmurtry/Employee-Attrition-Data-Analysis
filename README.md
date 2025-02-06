@@ -46,12 +46,12 @@ The code will:
 * Make predictions on employee attrition
 
 ### 5. **Use the Application Interface**
-**Interact with Widgets:** Enter employee details using sliders, dropdowns, and input fields.
-**Predict Attrition:** Click the Predict button to generate a result.
+* **Interact with Widgets:** Enter employee details using sliders, dropdowns, and input fields.
+* **Predict Attrition:** Click the Predict button to generate a result.
 
 ### 6. **Analyze Results**
-**Review Predictions:** The model will predict if an employee is at risk of attrition.
-**Check Insights:** The classification report, confusion matrix, and visualizations will highlight key factors influencing attrition.
+* **Review Predictions:** The model will predict if an employee is at risk of attrition.
+* **Check Insights:** The classification report, confusion matrix, and visualizations will highlight key factors influencing attrition.
 
 ## 7. **Example Usage Scenario**
 **Objective:** The HR team wants to identify employees at risk of leaving.
