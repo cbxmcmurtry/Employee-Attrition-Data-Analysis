@@ -35,7 +35,7 @@ cd /path/to/EmployeeAttritionPredictor
 * Launch Jupyter Notebook by running:
 jupyter notebook
 
-* In the Jupyter Notebook interface, navigate to the project directory and open the EmployeeAttritionPredictor.ipynb file.
+* In the Jupyter Notebook interface, navigate to the project directory and open the employee_attrition_prediction.ipynb file.
 
 ### 4. **Execute the Application**
 * Run all code cells in sequence by clicking the “Run” button in Jupyter Notebook.
