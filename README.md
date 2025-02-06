@@ -2,20 +2,20 @@
 This project predicts employee attrition using a Random Forest Classifier trained on HR data from IBM. It includes data preprocessing, feature encoding, SMOTE for class balancing, and an interactive UI for making predictions.
 
 ## Features
-Data Preprocessing: Handles categorical and numerical variables.
-SMOTE (Synthetic Minority Over-sampling Technique): Balances the dataset for better predictions.
-Random Forest Model: Trained on resampled data for robust classification.
-Evaluation Metrics: Generates a classification report, confusion matrix, and feature importance plots.
-Interactive UI: Uses widgets to input employee details and predict attrition.
+* Data Preprocessing: Handles categorical and numerical variables.
+* SMOTE (Synthetic Minority Over-sampling Technique): Balances the dataset for better predictions.
+* Random Forest Model: Trained on resampled data for robust classification.
+* Evaluation Metrics: Generates a classification report, confusion matrix, and feature importance plots.
+* Interactive UI: Uses widgets to input employee details and predict attrition.
 
 ## How It Works
-Prepares Data: Encodes categorical variables and balances data using SMOTE.
-Trains Model: Uses a Random Forest Classifier on the resampled dataset.
-Evaluates Performance: Displays the classification report and confusion matrix.
-User Input via Widgets: Allows entering employee details to predict attrition.
+* Prepares Data: Encodes categorical variables and balances data using SMOTE.
+* Trains Model: Uses a Random Forest Classifier on the resampled dataset.
+* Evaluates Performance: Displays the classification report and confusion matrix.
+* User Input via Widgets: Allows entering employee details to predict attrition.
 
 ## User Guide
-1️⃣ Install Necessary Software & Libraries
+Install Necessary Software & Libraries
 ### Required Software:
 Python (Version 3.8 or higher)
 Jupyter Notebook
