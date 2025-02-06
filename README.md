@@ -51,7 +51,7 @@ The code will:
 
 ### 6. **Analyze Results**
 **Review Predictions:** The model will predict if an employee is at risk of attrition.
-Check Insights: The classification report, confusion matrix, and visualizations will highlight key factors influencing attrition.
+**Check Insights:** The classification report, confusion matrix, and visualizations will highlight key factors influencing attrition.
 
 ## 7. **Example Usage Scenario**
 **Objective:** The HR team wants to identify employees at risk of leaving.
